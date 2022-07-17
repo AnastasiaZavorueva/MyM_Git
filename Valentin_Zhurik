@@ -1,0 +1,7 @@
+cd g:/github/mymonday
+ls
+git add Valentin_Zhurik
+git status
+git commit -m "vz_snaphot"
+git status
+git push
