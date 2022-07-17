@@ -6,7 +6,7 @@ Pull requests:
 4. Valentin_Zhurik
 5. Victoria Hramelya
 6. Olga Nekrasova
-7.
+7. Barbachev Konstantsin
 8.
 9.
 10.
