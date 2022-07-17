@@ -4,3 +4,12 @@ Pull requests:
 2. Alena Tsatsokha
 3. Slava_Yanousky
 4. Valentin_Zhurik
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
