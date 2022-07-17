@@ -4,7 +4,7 @@ Pull requests:
 2. Alena Tsatsokha
 3. Slava_Yanousky
 4. Valentin_Zhurik
-5.
+5. Victoria Hramelya
 6.
 7.
 8.
