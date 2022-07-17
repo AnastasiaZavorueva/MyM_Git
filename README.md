@@ -5,7 +5,7 @@ Pull requests:
 3. Slava_Yanousky
 4. Valentin_Zhurik
 5. Victoria Hramelya
-6.
+6. Olga Nekrasova
 7.
 8.
 9.
