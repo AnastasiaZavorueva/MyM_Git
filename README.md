@@ -9,7 +9,7 @@ Pull requests:
 7. Barbachev Konstantsin
 8. Gavrilov Vlad
 9. Anastasiya Polonik
-10.
+10. AleksandraEvseenko
 11.
 12.
 13.
