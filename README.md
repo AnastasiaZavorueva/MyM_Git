@@ -8,7 +8,7 @@ Pull requests:
 6. Olga Nekrasova
 7. Barbachev Konstantsin
 8. Gavrilov Vlad
-9.
+9. Anastasiya Polonik
 10.
 11.
 12.
