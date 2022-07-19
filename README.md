@@ -10,6 +10,6 @@ Pull requests:
 8. Gavrilov Vlad
 9. Anastasiya Polonik
 10. AleksandraEvseenko
-11.
+11. Julia_Ponomareva
 12.
 13.
