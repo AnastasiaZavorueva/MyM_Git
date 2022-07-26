@@ -11,5 +11,5 @@ Pull requests:
 9. Anastasiya Polonik
 10. AleksandraEvseenko
 11. Julia_Ponomareva
-12.
+12. AstapenkoMasha
 13.
